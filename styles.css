@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+#form {
+    color: white;
+    text-align: center;
+}
+input {
+    width: 10%;
+}
